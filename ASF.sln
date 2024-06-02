@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ASF", "E:\ASF-Web\ASF\", "{1418E6F9-1234-4DFF-9425-A714DDE17A99}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.8"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_60886"
+		Debug.AspNetCompiler.PhysicalPath = "E:\ASF-Web\ASF\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_60886\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_60886"
+		Release.AspNetCompiler.PhysicalPath = "E:\ASF-Web\ASF\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_60886\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "60886"
+		SlnRelativePath = "E:\ASF-Web\ASF\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1418E6F9-1234-4DFF-9425-A714DDE17A99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1418E6F9-1234-4DFF-9425-A714DDE17A99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79B96C45-AFEA-471E-9887-D32196537A99}
+	EndGlobalSection
+EndGlobal
